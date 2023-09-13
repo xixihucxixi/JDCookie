@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private WebView webBridgeWebView;
     private ProgressBar webBridgeProgressBar;
-    private final static String JD_URL = "https://m.jd.com/";
+    private final static String JD_URL = "https://m.healthjd.com/s/my?yyjdfromflag=login";
     private MyAdapter adapter;
     private RecyclerView recyclerView;
     private long oldTime = 0;
